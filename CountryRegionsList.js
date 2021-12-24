@@ -1,3 +1,11 @@
+// Lists of countries with ISO 3166 codes
+// Last Updated: December 24, 2021
+
+// License: CC0 1.0 Universal
+// https://creativecommons.org/publicdomain/zero/1.0/
+
+// List of all countries regions in a simple list / array.
+
 const continents = [
     {"code":"AN", "name":"Antarctica"},
     {"code":"AF", "name":"Africa"},
